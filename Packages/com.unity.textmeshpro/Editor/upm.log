@@ -1,0 +1,13 @@
+{"level":"info","message":"Starting Server","timestamp":"2019-06-02T00:23:24.257Z"}
+{"level":"info","message":"Server started on port [65245]","timestamp":"2019-06-02T00:23:24.264Z"}
+{"level":"info","message":"Health Request received","timestamp":"2019-06-02T00:23:25.046Z"}
+{"level":"warn","message":"Package folder [F:\\Estudo\\Unity\\Arkanoid\\Packages\\com.unity.analytics] missing package manifest.","timestamp":"2019-06-02T00:31:05.049Z"}
+{"level":"warn","message":"Package folder [F:\\Estudo\\Unity\\Arkanoid\\Packages\\com.unity.collab-proxy] missing package manifest.","timestamp":"2019-06-02T00:31:05.049Z"}
+{"level":"warn","message":"Package folder [F:\\Estudo\\Unity\\Arkanoid\\Packages\\com.unity.package-manager-ui] missing package manifest.","timestamp":"2019-06-02T00:31:05.049Z"}
+{"level":"warn","message":"Package folder [F:\\Estudo\\Unity\\Arkanoid\\Packages\\com.unity.textmeshpro] missing package manifest.","timestamp":"2019-06-02T00:31:05.050Z"}
+{"level":"warn","message":"Package folder [F:\\Estudo\\Unity\\Arkanoid\\Packages\\com.unity.timeline] missing package manifest.","timestamp":"2019-06-02T00:31:05.050Z"}
+{"level":"warn","message":"Package folder [F:\\Estudo\\Unity\\Arkanoid\\Packages\\com.unity.analytics] missing package manifest.","timestamp":"2019-06-02T00:31:13.318Z"}
+{"level":"warn","message":"Package folder [F:\\Estudo\\Unity\\Arkanoid\\Packages\\com.unity.package-manager-ui] missing package manifest.","timestamp":"2019-06-02T00:31:13.318Z"}
+{"level":"warn","message":"Package folder [F:\\Estudo\\Unity\\Arkanoid\\Packages\\com.unity.timeline] missing package manifest.","timestamp":"2019-06-02T00:31:13.318Z"}
+{"level":"warn","message":"Package folder [F:\\Estudo\\Unity\\Arkanoid\\Packages\\com.unity.textmeshpro] missing package manifest.","timestamp":"2019-06-02T00:31:13.319Z"}
+{"level":"warn","message":"Package folder [F:\\Estudo\\Unity\\Arkanoid\\Packages\\com.unity.collab-proxy] missing package manifest.","timestamp":"2019-06-02T00:31:13.320Z"}

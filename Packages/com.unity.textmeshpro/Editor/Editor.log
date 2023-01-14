@@ -1,0 +1,655 @@
+
+LICENSE SYSTEM [201961 21:23:22] Next license update check is after 2019-06-02T16:28:23
+
+Built from '2019.1/staging' branch; Version is '2019.1.4f1 (ffa3a7a2dd7d) revision 16753575'; Using compiler version '191627012'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'pt' Physical Memory: 16339 MB
+BatchMode: 0, IsHumanControllingUs: 1, StartBugReporterOnCrash: 1, Is64bit: 1, IsPro: 0
+[Package Manager] Server::Start -- Port 65245 was selected
+
+ COMMAND LINE ARGUMENTS:
+F:/Program Files/Unity/Editor/Unity.exe
+-projectpath
+F:\Estudo\Unity\Arkanoid
+-useHub
+-hubIPC
+-cloudEnvironment
+production
+-skipUpgradeDialogs
+-hubSessionId
+d14d7b20-848a-11e9-bdc1-a97b2ee6a436
+Successfully changed project path to: F:\Estudo\Unity\Arkanoid
+F:/Estudo/Unity/Arkanoid
+Using Asset Import Pipeline V1.
+Loading GUID <-> Path mappings...0.000106 seconds
+Loading Asset Database...0.008885 seconds
+AssetDatabase consistency checks...0.028361 seconds
+[Package Manager] Done resolving packages in 0.40s seconds
+[Package Manager] Registering 38 packages:
+[Package Manager]  * Package :  com.unity.ads@2.0.8
+    (location: F:\Estudo\Unity\Arkanoid\Library\PackageCache\com.unity.ads@2.0.8)
+[Package Manager]  * Package :  com.unity.analytics@3.3.2
+    (location: F:\Estudo\Unity\Arkanoid\Library\PackageCache\com.unity.analytics@3.3.2)
+[Package Manager]  * Package :  com.unity.collab-proxy@1.2.16
+    (location: F:\Estudo\Unity\Arkanoid\Library\PackageCache\com.unity.collab-proxy@1.2.16)
+[Package Manager]  * Package :  com.unity.package-manager-ui@2.1.2
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.package-manager-ui)
+[Package Manager]  * Package :  com.unity.purchasing@2.0.6
+    (location: F:\Estudo\Unity\Arkanoid\Library\PackageCache\com.unity.purchasing@2.0.6)
+[Package Manager]  * Package :  com.unity.textmeshpro@2.0.1
+    (location: F:\Estudo\Unity\Arkanoid\Library\PackageCache\com.unity.textmeshpro@2.0.1)
+[Package Manager]  * Package :  com.unity.timeline@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.timeline)
+[Package Manager]  * Package :  com.unity.modules.ai@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai)
+[Package Manager]  * Package :  com.unity.modules.animation@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation)
+[Package Manager]  * Package :  com.unity.modules.assetbundle@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle)
+[Package Manager]  * Package :  com.unity.modules.audio@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio)
+[Package Manager]  * Package :  com.unity.modules.cloth@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth)
+[Package Manager]  * Package :  com.unity.modules.director@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director)
+[Package Manager]  * Package :  com.unity.modules.imageconversion@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion)
+[Package Manager]  * Package :  com.unity.modules.imgui@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui)
+[Package Manager]  * Package :  com.unity.modules.jsonserialize@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize)
+[Package Manager]  * Package :  com.unity.modules.particlesystem@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem)
+[Package Manager]  * Package :  com.unity.modules.physics@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics)
+[Package Manager]  * Package :  com.unity.modules.physics2d@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d)
+[Package Manager]  * Package :  com.unity.modules.screencapture@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture)
+[Package Manager]  * Package :  com.unity.modules.terrain@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain)
+[Package Manager]  * Package :  com.unity.modules.terrainphysics@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics)
+[Package Manager]  * Package :  com.unity.modules.tilemap@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap)
+[Package Manager]  * Package :  com.unity.modules.ui@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui)
+[Package Manager]  * Package :  com.unity.modules.uielements@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements)
+[Package Manager]  * Package :  com.unity.modules.umbra@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra)
+[Package Manager]  * Package :  com.unity.modules.unityanalytics@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics)
+[Package Manager]  * Package :  com.unity.modules.unitywebrequest@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest)
+[Package Manager]  * Package :  com.unity.modules.unitywebrequestassetbundle@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle)
+[Package Manager]  * Package :  com.unity.modules.unitywebrequestaudio@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio)
+[Package Manager]  * Package :  com.unity.modules.unitywebrequesttexture@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture)
+[Package Manager]  * Package :  com.unity.modules.unitywebrequestwww@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww)
+[Package Manager]  * Package :  com.unity.modules.vehicles@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles)
+[Package Manager]  * Package :  com.unity.modules.video@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video)
+[Package Manager]  * Package :  com.unity.modules.vr@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr)
+[Package Manager]  * Package :  com.unity.modules.wind@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind)
+[Package Manager]  * Package :  com.unity.modules.xr@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr)
+[Package Manager]  * Package :  com.unity.ugui@1.0.0
+    (location: F:\Program Files\Unity\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui)
+[Package Manager] Done registering packages in 0.04s seconds
+Refreshing native plugins compatible for Editor in 7.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+IsTimeToCheckForNewEditor: Update time 1559420081 current 1559435005
+Initialize engine version: 2019.1.4f1 (ffa3a7a2dd7d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   23.21.13.9135
+[EnlightenBakeManager] m_Clear = false;
+WARNING: Shader Unsupported: 'AR/TangoARRender' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'AR/TangoARRender' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeOSX' - Pass 'Flip_RGBARect_To_RGBA' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeOSX' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeAndroid' - Pass 'RGBAExternal_To_RGBA' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeAndroid' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeML' - Pass 'RGBAExternal_To_RGBA' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeML' - Setting to default shader.
+Initialize mono
+Mono path[0] = 'F:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'F:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'F:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56712
+Begin MonoManager ReloadAssembly
+Initializing Extension Manager v2019.1.4 for Unity v2019.1.4f1
+Registering precompiled unity dll's ...
+Register platform support module: F:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: F:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: F:\Program Files\Unity\Editor\Data\PlaybackEngines\AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: F:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport/UnityEditor.UWP.Extensions.dll
+Register platform support module: F:\Program Files\Unity\Editor\Data\PlaybackEngines\Facebook/UnityEditor.Facebook.Extensions.dll
+Register platform support module: F:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.009026 seconds.
+Registering platform support modules:
+Registered platform support modules in: 0,11906s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Native extension for Android target not found
+Native extension for Facebook target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.148 seconds
+Registering precompiled user dll's ...
+Registered in 0.051679 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Initializing Extension Manager v2019.1.4 for Unity v2019.1.4f1
+Registering platform support modules:
+Registered platform support modules in: 0,0709611s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Native extension for Android target not found
+Native extension for Facebook target not found
+Native extension for iOS target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.776 seconds
+Platform modules already initialized, skipping
+Validating Project structure ... 0.001728 seconds.
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.034307s
+	Asset Scan time: 0.031858s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+WARNING: Shader Unsupported: 'AR/TangoARRender' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'AR/TangoARRender' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeAndroid' - Pass 'RGBAExternal_To_RGBA' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeAndroid' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeML' - Pass 'RGBAExternal_To_RGBA' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeML' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeOSX' - Pass 'Flip_RGBARect_To_RGBA' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeOSX' - Setting to default shader.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Warming cache for 898 main assets: 0.001564 seconds elapsed
+Initializing Unity extensions:
+ 'F:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/portable/nunit.framework.dll'  GUID: 405b9b51bb344a128608d968297df79c
+ 'F:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll'  GUID: f70555f144d8491a825f0804e09c671c
+ 'F:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'  GUID: f5f67c52d1564df4a8936ccd202a3bd8
+ 'F:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll'  GUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+ 'F:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll'  GUID: 4ba2329b63d54f0187bcaa12486b1b0f
+ 'F:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll'  GUID: 80a3616ca19596e4da0f10f14d241e9f
+ 'F:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll'  GUID: 4113173d5e95493ab8765d7b08371de4
+ 'F:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll'  GUID: 4b3fa4bde7f1451a8218c03ee6a8ded8
+Load scene 'Assets/Scenes/MainGame.unity' time: 0.045500 ms 
+LightmapEditorSettings: switching bake backend from 1 to 0.
+Unloading 587 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 137.8 MB.
+System memory in use after: 136.1 MB.
+
+Unloading 97 unused Assets to reduce memory usage. Loaded Objects now: 1238.
+Total: 4.885100 ms (FindLiveObjects: 0.377700 ms CreateObjectMapping: 0.039800 ms MarkObjects: 2.823500 ms  DeleteObjects: 1.642500 ms)
+
+<RI> Initialized touch support.
+<RI> Initialized touch support.
+<RI> Initialized touch support.
+<RI> Initialized touch support.
+<RI> Initialized touch support.
+<RI> Initialized touch support.
+<RI> Initializing input.
+<RI> Input initialized.
+[Project] Loading completed in 9.573 seconds
+	Project init time: 				8.865 seconds
+		Services packages init time: 	1.287 seconds
+		Package Manager init time: 		0.833 seconds
+		Asset Database init time: 		0.651 seconds
+		Global illumination init time: 	0.279 seconds
+		Assemblies load time: 			4.407 seconds
+		Unity extensions init time: 	0.002 seconds
+		Asset Database refresh time: 	0.034 seconds
+	Scene opening time: 			0.472 seconds
+EditorUpdateCheck: Response {"updateinterval":3600} updateurl =  interval = 3600
+Created GICache directory at C:/Users/diego/AppData/LocalLow/Unity/Caches/GiCache. Took: 0.082s, timestamps: [10.278 - 10.360]
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 29b0 -> priority: 1 
+  Thread -> id: 358c -> priority: 1 
+TrimDiskCacheJob: Current cache size 0mb
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.026559s
+	Asset Scan time: 0.024893s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+Refreshing native plugins compatible for Editor in 2.59 ms, found 0 plugins.
+<RI> Initialized touch support.
+Reloading assemblies due to reload request.
+Begin MonoManager ReloadAssembly
+Initializing Extension Manager v2019.1.4 for Unity v2019.1.4f1
+Registering platform support modules:
+Registered platform support modules in: 0,0591822s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Native extension for Android target not found
+Native extension for Facebook target not found
+Native extension for iOS target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+- Completed reload, in  1.905 seconds
+Platform modules already initialized, skipping
+Reloading assemblies due to reload request.
+Begin MonoManager ReloadAssembly
+Initializing Extension Manager v2019.1.4 for Unity v2019.1.4f1
+Registering platform support modules:
+Registered platform support modules in: 0,0600849s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Native extension for Android target not found
+Native extension for Facebook target not found
+Native extension for iOS target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+- Completed reload, in  1.761 seconds
+Platform modules already initialized, skipping
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.026308s
+	Asset Scan time: 0.024819s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+EditorHelper: Looking for a running Visual Studio session.
+EditorHelper: Checking for Visual Studio installations.
+EditorHelper: Searching for Visual Studio 2008 installation using the VS90COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 2008 installation found, trying with the registry.
+EditorHelper: No Visual Studio 2008 installation found at all
+EditorHelper: Searching for Visual Studio 2010 installation using the VS100COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 2010 installation found, trying with the registry.
+EditorHelper: No Visual Studio 2010 installation found at all
+EditorHelper: Searching for Visual Studio 2012 installation using the VS110COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 2012 installation found, trying with the registry.
+EditorHelper: No Visual Studio 2012 installation found at all
+EditorHelper: Searching for Visual Studio 2013 installation using the VS120COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 2013 installation found, trying with the registry.
+EditorHelper: No Visual Studio 2013 installation found at all
+EditorHelper: Searching for Visual Studio 2015 installation using the VS140COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 2015 installation found, trying with the registry.
+EditorHelper: No Visual Studio 2015 installation found at all
+EditorHelper: Searching for Visual Studio 2017 installation using the VS150COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 2017 installation found, trying with the registry.
+EditorHelper: No Visual Studio 2017 installation found at all
+EditorHelper: Searching for Visual Studio 2019 installation using the VS160COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 2019 installation found, trying with the registry.
+EditorHelper: No Visual Studio 2019 installation found at all
+EditorHelper: Your preferences indicate Visual Studio should be found here: f:/work/visual studio/common7/ide/devenv.exe
+EditorHelper: We did not find a matching Visual Studio installation. We will look for a default Visual Studio installation.
+EditorHelper: No appropriate running Visual Studio session not found, creating a new one.
+EditorHelper: Starting Visual Studio process with: "F:\Work\Visual Studio\Common7\IDE\devenv.exe" "F:\Estudo\Unity\Arkanoid\Arkanoid.sln"
+EditorHelper: Waiting for the newly launched Visual Studio session to be ready.
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.035179s
+	Asset Scan time: 0.033243s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.063399s
+	Asset Scan time: 0.061859s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.034648s
+	Asset Scan time: 0.033149s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.026051s
+	Asset Scan time: 0.024609s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.024945s
+	Asset Scan time: 0.023445s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+Reloading assemblies for play mode.
+Begin MonoManager ReloadAssembly
+Initializing Extension Manager v2019.1.4 for Unity v2019.1.4f1
+Registering platform support modules:
+Registered platform support modules in: 0,0596089s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Native extension for Android target not found
+Native extension for Facebook target not found
+Native extension for iOS target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.906 seconds
+Platform modules already initialized, skipping
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.424800 ms 
+LightmapEditorSettings: switching bake backend from 1 to 0.
+gi::BakeBackendSwitch: Clear() active clients.
+gi::BakeBackendSwitch: switching bake backend from 3 to 0.
+<RI> Initialized touch support.
+Operation UnityEditor.PackageManager.Requests.ListRequest Done
+Current xiaomi package version is empty
+Operation UnityEditor.PackageManager.Requests.SearchRequest Done
+Latest xiaomi package version is empty
+<RI> Initialized touch support.
+Operation UnityEditor.PackageManager.Requests.ListRequest Done
+Current xiaomi package version is empty
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.024346s
+	Asset Scan time: 0.022831s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.025641s
+	Asset Scan time: 0.024171s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.026354s
+	Asset Scan time: 0.024793s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.024843s
+	Asset Scan time: 0.023213s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+EditorHelper: Looking for a running Visual Studio session.
+EditorHelper: Checking for Visual Studio installations.
+EditorHelper: Searching for Visual Studio 2008 installation using the VS90COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 2008 installation found, trying with the registry.
+EditorHelper: No Visual Studio 2008 installation found at all
+EditorHelper: Searching for Visual Studio 2010 installation using the VS100COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 2010 installation found, trying with the registry.
+EditorHelper: No Visual Studio 2010 installation found at all
+EditorHelper: Searching for Visual Studio 2012 installation using the VS110COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 2012 installation found, trying with the registry.
+EditorHelper: No Visual Studio 2012 installation found at all
+EditorHelper: Searching for Visual Studio 2013 installation using the VS120COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 2013 installation found, trying with the registry.
+EditorHelper: No Visual Studio 2013 installation found at all
+EditorHelper: Searching for Visual Studio 2015 installation using the VS140COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 2015 installation found, trying with the registry.
+EditorHelper: No Visual Studio 2015 installation found at all
+EditorHelper: Searching for Visual Studio 2017 installation using the VS150COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 2017 installation found, trying with the registry.
+EditorHelper: No Visual Studio 2017 installation found at all
+EditorHelper: Searching for Visual Studio 2019 installation using the VS160COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 2019 installation found, trying with the registry.
+EditorHelper: No Visual Studio 2019 installation found at all
+EditorHelper: Your preferences indicate Visual Studio should be found here: f:/work/visual studio/common7/ide/devenv.exe
+EditorHelper: We did not find a matching Visual Studio installation. We will look for a default Visual Studio installation.
+EditorHelper: No appropriate running Visual Studio session not found, creating a new one.
+EditorHelper: Starting Visual Studio process with: "F:\Work\Visual Studio\Common7\IDE\devenv.exe" "F:\Estudo\Unity\Arkanoid\Arkanoid.sln"
+EditorHelper: Waiting for the newly launched Visual Studio session to be ready.
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.029774s
+	Asset Scan time: 0.027860s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.028110s
+	Asset Scan time: 0.026289s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.032551s
+	Asset Scan time: 0.030089s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.027620s
+	Asset Scan time: 0.025988s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+[Performance] CurlRequestCheck                                  :       15 samples, Peak.  86.4 ms (8.2x), Avg.  10.5 ms, Total. 157.2 ms (0.0%)
+[Performance] PackageManager::RunRequestSynchronously           :        8 samples, Peak.  20.1 ms (3.8x), Avg.  5.22 ms, Total. 41.77 ms (0.0%)
+[Performance] SceneVisibilityState::GameObjectChangedScene_Impl :       27 samples, Peak.   300 ns (3.5x), Avg.  85.2 ns, Total. 2.300 us (0.0%)
+[Performance] SceneHierarchyWindow.Paint                        :       49 samples, Peak.   395 ms (21.1x), Avg.  18.7 ms, Total. 918.4 ms (0.0%)
+[Performance] SceneHierarchyWindow.OnGUI.Layout                 :       49 samples, Peak.   174 ms (28.6x), Avg.  6.08 ms, Total. 297.9 ms (0.0%)
+[Performance] SceneVisibilityState.IsGameObjectHidden           :    20528 samples, Peak.  28.1 us (212.6x), Avg.   132 ns, Total. 2.713 ms (0.0%)
+[Performance] SceneVisibilityState.HasHiddenGameObjects         :       98 samples, Peak.  14.0 us (22.1x), Avg.   634 ns, Total. 62.10 us (0.0%)
+[Performance] SceneVisibilityState.AreAllChildrenVisible        :      294 samples, Peak.   400 ns (10.6x), Avg.  37.8 ns, Total. 11.10 us (0.0%)
+[Performance] SceneHierarchyWindow.OnGUI.repaint                :       49 samples, Peak.  7.06 ms (8.4x), Avg.   843 us, Total. 41.31 ms (0.0%)
+[Performance] SceneView.Paint                                   :     2917 samples, Peak.   119 ms (26.2x), Avg.  4.53 ms, Total. 13.20 s (0.3%)
+[Performance] SceneView.OnGUI.Layout                            :     3603 samples, Peak.  59.0 ms (78.9x), Avg.   748 us, Total. 2.695 s (0.1%)
+[Performance] SceneView.OnGUI.repaint                           :     2582 samples, Peak.  40.6 ms (17.2x), Avg.  2.37 ms, Total. 6.115 s (0.2%)
+[Performance] Toolbar.Paint                                     :       59 samples, Peak.  20.5 ms (8.6x), Avg.  2.38 ms, Total. 140.3 ms (0.0%)
+[Performance] ProjectBrowser.Paint                              :      105 samples, Peak.  17.0 s (47.1x), Avg.   361 ms, Total. 37.90 s (0.9%)
+[Performance] ProjectBrowser.OnGUI.Layout                       :      171 samples, Peak.  80.9 ms (45.3x), Avg.  1.78 ms, Total. 305.1 ms (0.0%)
+[Performance] ProjectBrowser.OnGUI.repaint                      :      102 samples, Peak.  11.6 ms (9.5x), Avg.  1.22 ms, Total. 124.9 ms (0.0%)
+[Performance] InspectorWindow.Paint                             :     1871 samples, Peak.   399 ms (34.6x), Avg.  11.6 ms, Total. 21.62 s (0.5%)
+[Performance] InspectorWindow.OnGUI.Layout                      :     1872 samples, Peak.  5.32 ms (150.3x), Avg.  35.4 us, Total. 66.29 ms (0.0%)
+[Performance] InspectorWindow.OnGUI.repaint                     :     1871 samples, Peak.   196 us (7.6x), Avg.  25.8 us, Total. 48.20 ms (0.0%)
+[Performance] AppStatusBar.Paint                                :       22 samples, Peak.  6.05 ms (3.9x), Avg.  1.55 ms, Total. 34.04 ms (0.0%)
+[Performance] ApplicationTickTimer                              :   882624 samples, Peak.  17.0 s (30960.6x), Avg.   549 us, Total. 484.2 s (11.9%)
+[Performance] License.Tick                                      :   182344 samples, Peak.  3.40 ms (2413.7x), Avg.  1.41 us, Total. 257.2 ms (0.0%)
+[Performance] VCProvider                                        :    35292 samples, Peak.   894 us (655.8x), Avg.  1.36 us, Total. 48.10 ms (0.0%)
+[Performance] MonoCompiler.Tick                                 :    19714 samples, Peak.  1.94 s (8938.0x), Avg.   217 us, Total. 4.273 s (0.1%)
+[Performance] Internal_SwitchSkin                               :    35292 samples, Peak.  68.9 us (1330.0x), Avg.  51.8 ns, Total. 1.828 ms (0.0%)
+[Performance] UnityConnect.Tick                                 :     5506 samples, Peak.   474 us (203.9x), Avg.  2.32 us, Total. 12.80 ms (0.0%)
+[Performance] UnityConnect.PollInfo                             :       78 samples, Peak.  14.3 us (16.4x), Avg.   873 ns, Total. 68.10 us (0.0%)
+[Performance] Collab.Tick                                       :     5506 samples, Peak.   136 us (105.1x), Avg.  1.29 us, Total. 7.121 ms (0.0%)
+[Performance] CurlRequest.Tick                                  :    39184 samples, Peak.  1.30 ms (843.4x), Avg.  1.54 us, Total. 60.34 ms (0.0%)
+[Performance] WebView.Tick                                      :    10529 samples, Peak.  88.1 ms (688.4x), Avg.   128 us, Total. 1.347 s (0.0%)
+[Performance] WebSocketClient.Tick                              :     3598 samples, Peak.  39.3 ms (3194.0x), Avg.  12.3 us, Total. 44.32 ms (0.0%)
+[Performance] SceneBackgroundTask.Tick                          :    25789 samples, Peak.   200 us (594.8x), Avg.   337 ns, Total. 8.689 ms (0.0%)
+[Performance] Scheduler.Tick                                    :   306699 samples, Peak.  26.1 ms (666.1x), Avg.  39.1 us, Total. 12.00 s (0.3%)
+[Performance] RepaintAllProfilerWindows                         :     7598 samples, Peak.  2.17 ms (276.5x), Avg.  7.83 us, Total. 59.51 ms (0.0%)
+[Performance] PlayerUpdates.Tick                                :    74040 samples, Peak.  27.2 ms (848.8x), Avg.  32.1 us, Total. 2.374 s (0.1%)
+[Performance] GlobalCallbacks                                   :   882624 samples, Peak.   133 ms (1713.6x), Avg.  77.9 us, Total. 68.74 s (1.7%)
+[Performance] EditorAnalytics.Tick                              :    15643 samples, Peak.  7.86 ms (1796.2x), Avg.  4.38 us, Total. 68.48 ms (0.0%)
+[Performance] GI.Tick                                           :     3871 samples, Peak.   867 us (18.8x), Avg.  46.1 us, Total. 178.4 ms (0.0%)
+[Performance] Video.Update                                      :   882624 samples, Peak.  4.37 ms (3468.3x), Avg.  1.26 us, Total. 1.112 s (0.0%)
+[Performance] UnitySynchronization.ExecuteTasks                 :     5504 samples, Peak.  1.61 ms (242.9x), Avg.  6.61 us, Total. 36.38 ms (0.0%)
+[Performance] PreloadManager                                    :   880348 samples, Peak.  9.56 ms (718.4x), Avg.  13.3 us, Total. 11.71 s (0.3%)
+[Performance] SceneTracker                                      :   882624 samples, Peak.   128 ms (484.9x), Avg.   264 us, Total. 233.2 s (5.7%)
+[Performance] ConsoleLog.Tick                                   :    19701 samples, Peak.  1.30 ms (166.5x), Avg.  7.81 us, Total. 153.9 ms (0.0%)
+[Performance] HierarchyWindow.Tick                              :    24971 samples, Peak.  1.47 ms (3342.9x), Avg.   439 ns, Total. 10.97 ms (0.0%)
+[Performance] Inspector.Tick                                    :    24971 samples, Peak.  29.1 ms (77.5x), Avg.   376 us, Total. 9.385 s (0.2%)
+[Performance] Tooltip.Tick                                      :    72400 samples, Peak.  12.9 s (63811.3x), Avg.   203 us, Total. 14.68 s (0.4%)
+[Performance] RequestRepaintForPanels                           :   880991 samples, Peak.  3.54 ms (879.2x), Avg.  4.02 us, Total. 3.544 s (0.1%)
+[Performance] UpdateScene                                       :   880991 samples, Peak.   447 ms (6352.8x), Avg.  70.3 us, Total. 61.98 s (1.5%)
+[Performance] GUIView.RepaintAll.PlayerLoopController           :     2841 samples, Peak.   432 ms (42.3x), Avg.  10.2 ms, Total. 29.06 s (0.7%)
+[Performance] UpdateTextureStreaming                            :    33659 samples, Peak.  2.17 ms (24.6x), Avg.  88.2 us, Total. 2.968 s (0.1%)
+[Performance] UpdateVideoTextures                               :    33659 samples, Peak.   266 us (440.5x), Avg.   605 ns, Total. 20.35 ms (0.0%)
+[Performance] PackageImporter.Tick                              :    19700 samples, Peak.   586 us (1354.0x), Avg.   433 ns, Total. 8.530 ms (0.0%)
+[Performance] InspectorBackground.Tick                          :    25785 samples, Peak.   424 us (351.8x), Avg.  1.21 us, Total. 31.07 ms (0.0%)
+[Performance] ChangeLayoutIfNeeded                              :   882624 samples, Peak.  2.80 ms (12453.2x), Avg.   225 ns, Total. 198.6 ms (0.0%)
+[Performance] AsyncReadManager.ForceCloseFiles                  :     3978 samples, Peak.   806 us (400.6x), Avg.  2.01 us, Total. 8.006 ms (0.0%)
+[Performance] GUIView.RepaintAll.RepaintScene                   :   878152 samples, Peak.  17.0 s (401827.3x), Avg.  42.3 us, Total. 37.12 s (0.9%)
+[Performance] SceneView.OnGUI.mouseMove                         :      964 samples, Peak.  8.80 ms (20.5x), Avg.   430 us, Total. 414.2 ms (0.0%)
+[Performance] SceneView.OnGUI.MouseLeaveWindow                  :       18 samples, Peak.   719 us (1.6x), Avg.   444 us, Total. 7.996 ms (0.0%)
+[Performance] SceneView.OnGUI.MouseEnterWindow                  :       26 samples, Peak.   767 us (2.0x), Avg.   382 us, Total. 9.943 ms (0.0%)
+[Performance] PreferenceSettingsWindow.Paint                    :       36 samples, Peak.   942 ms (12.2x), Avg.  77.2 ms, Total. 2.779 s (0.1%)
+[Performance] PreferenceSettingsWindow.OnGUI.Layout             :       35 samples, Peak.  82.5 us (2.7x), Avg.  30.3 us, Total. 1.060 ms (0.0%)
+[Performance] PreferenceSettingsWindow.OnGUI.repaint            :       33 samples, Peak.  53.8 us (1.8x), Avg.  29.2 us, Total. 964.4 us (0.0%)
+[Performance] PreferenceSettingsWindow.OnGUI.Used               :        1 samples, Peak.  29.8 us (1.0x), Avg.  29.8 us, Total. 29.80 us (0.0%)
+[Performance] SceneView.OnGUI.mouseDown                         :        2 samples, Peak.   692 us (1.0x), Avg.   676 us, Total. 1.352 ms (0.0%)
+[Performance] SceneView.OnGUI.mouseUp                           :        2 samples, Peak.  30.6 ms (1.0x), Avg.  29.4 ms, Total. 58.76 ms (0.0%)
+[Performance] ProjectBrowser.OnGUI.mouseDown                    :        7 samples, Peak.  2.65 ms (2.5x), Avg.  1.07 ms, Total. 7.478 ms (0.0%)
+[Performance] ProjectBrowser.OnGUI.mouseUp                      :        7 samples, Peak.  1.65 ms (3.1x), Avg.   532 us, Total. 3.722 ms (0.0%)
+[Performance] ProjectBrowser.OnGUI.mouseDrag                    :        5 samples, Peak.  2.15 ms (3.1x), Avg.   693 us, Total. 3.467 ms (0.0%)
+[Performance] ProjectBrowser.OnGUI.ContextClick                 :        3 samples, Peak.  1.23 ms (1.5x), Avg.   830 us, Total. 2.491 ms (0.0%)
+[Performance] InactiveGI.Tick                                   :      545 samples, Peak.  1.23 ms (23.9x), Avg.  51.4 us, Total. 28.03 ms (0.0%)
+[Performance] GUIView.RepaintAll.RequestRepaint                 :     1633 samples, Peak.  2.96 ms (439.1x), Avg.  6.74 us, Total. 11.01 ms (0.0%)
+[Performance] GameView.OnGUI.Layout                             :      339 samples, Peak.  20.9 ms (56.2x), Avg.   372 us, Total. 126.1 ms (0.0%)
+[Performance] GameView.OnGUI.Used                               :        1 samples, Peak.   271 us (1.0x), Avg.   271 us, Total. 271.2 us (0.0%)
+[Performance] GameView.OnGUI.ExecuteCommand                     :        1 samples, Peak.   893 us (1.0x), Avg.   893 us, Total. 892.7 us (0.0%)
+[Performance] GameView.OnGUI.repaint                            :      335 samples, Peak.  7.88 ms (8.9x), Avg.   884 us, Total. 296.2 ms (0.0%)
+[Performance] ProjectBrowser.OnGUI.ExecuteCommand               :        1 samples, Peak.  1.84 ms (1.0x), Avg.  1.84 ms, Total. 1.836 ms (0.0%)
+[Performance] GameView.OnGUI.ScrollWheel                        :        1 samples, Peak.   221 us (1.0x), Avg.   221 us, Total. 221.2 us (0.0%)
+[Performance] SceneView.OnGUI.Used                              :        2 samples, Peak.   472 us (1.2x), Avg.   398 us, Total. 796.6 us (0.0%)
+[Performance] ProjectBrowser.OnGUI.dragUpdated                  :       39 samples, Peak.  1.39 ms (1.9x), Avg.   722 us, Total. 28.15 ms (0.0%)
+[Performance] ProjectBrowser.OnGUI.DragExited                   :        1 samples, Peak.   450 us (1.0x), Avg.   450 us, Total. 449.6 us (0.0%)
+[Performance] InspectorWindow.OnGUI.DragExited                  :        1 samples, Peak.  16.9 us (1.0x), Avg.  16.9 us, Total. 16.90 us (0.0%)
+[Performance] Package.AsyncRequest                              :       15 samples, Peak.  29.5 us (9.8x), Avg.  3.01 us, Total. 45.10 us (0.0%)
+[Performance] BuildPlayerWindow.Paint                           :        8 samples, Peak.   145 ms (6.1x), Avg.  23.7 ms, Total. 189.7 ms (0.0%)
+[Performance] SceneView.OnGUI.ScrollWheel                       :        8 samples, Peak.  2.61 ms (3.7x), Avg.   698 us, Total. 5.585 ms (0.0%)
+[Performance] ProjectBrowser.OnGUI.ScrollWheel                  :        3 samples, Peak.   176 us (1.1x), Avg.   155 us, Total. 466.3 us (0.0%)
+[Performance] ProjectBrowser.OnGUI.KeyDown                      :        2 samples, Peak.  1.39 ms (1.8x), Avg.   766 us, Total. 1.532 ms (0.0%)
+[Performance] ProjectBrowser.OnGUI.KeyUp                        :        1 samples, Peak.   196 us (1.0x), Avg.   196 us, Total. 195.7 us (0.0%)
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.026169s
+	Asset Scan time: 0.024729s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+Updating ProjectSettings/ProjectSettings.asset - GUID: 00000000000000004000000000000000...
+ done. [Time: 15.787300 ms] 
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Refresh: detecting if any assets need to be imported or removed ...
+
+Refresh Completed time: 0.026398s
+	Asset Scan time: 0.024822s
+	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Scripting) time: 0.000000s (count: 0)
+	Post Processs Assets (Scripting) time: 0.000000s
+	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
+	Asset Import (Non Scripting) time: 0.000000s (count: 0)
+	Post Process Assets (Non Scripting) time: 0.000000s
+	Dependent Assets to Import Queue time: 0.000000s
+
+[Package Manager] Server::Kill -- Server was shutdown
+Cleanup mono
+[usbmuxd] Stop listen thread
+[usbmuxd] Listen thread exiting
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1559439063961,"processId":20712,"allocatedMemory":1250257,"memoryLabels":[{"Default":1180},{"NewDelete":1003521},{"Thread":-25},{"Manager":960},{"VertexData":2800},{"GfxDevice":896},{"Audio":152},{"Physics":209},{"Serialization":40},{"Terrain":112},{"String":74574},{"DynamicArray":42672},{"HashMap":13619},{"Curl":1376},{"PoolAlloc":8},{"ScriptManager":14520},{"Sprites":2384},{"GI":480},{"VR":3100},{"Secure":8},{"EditorGui":280},{"EditorUtility":1212},{"AssetImporter":32},{"RestService":248},{"UnityConnect":20720},{"Collab":696},{"Upm":64483}]}
